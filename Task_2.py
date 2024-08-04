@@ -37,8 +37,6 @@ class Logger:
 
 logger = Logger()
 
-# logger.shouldPrintMessage(1, "foo");
-# logger.shouldPrintMessage(2, "bar");
 while True:
     print("Enter command:")
     print("1. Print message")
